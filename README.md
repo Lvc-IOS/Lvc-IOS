@@ -22,8 +22,6 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**monitor-price-bot**](https://github.com/IOSSvl/monitor-price-bot) | Telegram bot that tracks OLED monitor prices across Amazon & Trovaprezzi and alerts on every drop, with price-history charts | Python · GitHub Actions · Supabase |
-| [**budgetly**](https://github.com/IOSSvl/budgetly) | Self-hosted budgeting PWA with multi-user accounts and cloud sync | Node.js · Express · PostgreSQL · Docker |
-| [**winopt**](https://github.com/IOSSvl/winopt) | Windows 11 optimization GUI in a single PowerShell file, installable with a one-liner | PowerShell · WinForms |
 
 ### 📊 Stats
 
