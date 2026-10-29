@@ -1,10 +1,29 @@
 <h1 align="center">Hey, I'm IOSS 👋</h1>
 <p align="center">
-  Developer from Italy · I build bots, automations and small tools that make my own life easier.<br>
+  IT professional from Italy · Sysadmin · Developer<br>
+  Currently working as a <b>mainframe developer &amp; technician</b>, supporting banking systems.<br>
   Also behind <a href="https://IOSSreviews.com">IOSSreviews</a> — reviews of mice, mousepads and gaming gear.
 </p>
 
 ---
+
+### 👨‍💻 About me
+
+- 🏦 Mainframe development and technical support for **banks**
+- 🖥️ Sysadmin background: Linux & Windows servers, networking, homelab
+- 🤖 In my spare time I build bots, automations and small tools that make life easier
+
+### 🏦 Mainframe
+
+<p>
+  <img src="https://img.shields.io/badge/IBM_z%2FOS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM z/OS">
+  <img src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge" alt="COBOL">
+  <img src="https://img.shields.io/badge/JCL-1F4E79?style=for-the-badge" alt="JCL">
+  <img src="https://img.shields.io/badge/CICS-0F62FE?style=for-the-badge" alt="CICS">
+  <img src="https://img.shields.io/badge/Db2-0530AD?style=for-the-badge&logo=ibm&logoColor=white" alt="Db2">
+  <img src="https://img.shields.io/badge/REXX-2E3440?style=for-the-badge" alt="REXX">
+  <img src="https://img.shields.io/badge/TSO%2FISPF-161616?style=for-the-badge" alt="TSO/ISPF">
+</p>
 
 ### 💻 Languages
 
