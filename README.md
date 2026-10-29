@@ -85,10 +85,6 @@
 ### 📊 Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IOSSvl&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOSSvl&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</p>
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IOSSvl&hide_border=true&theme=transparent" alt="Streak">
 </p>
 
