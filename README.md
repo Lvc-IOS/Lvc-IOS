@@ -1,5 +1,8 @@
 <h1 align="center">Hey, I'm IOSS 👋</h1>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Mainframe+developer+%40+banking;Sysadmin+%7C+Homelab+enjoyer;Web+developer+%7C+Bot+builder;COBOL+by+day%2C+Rust+by+night" alt="Typing SVG">
+</p>
+<p align="center">
   IT professional from Italy · Sysadmin · Developer · Web Developer<br>
   Currently working as a <b>mainframe developer &amp; technician</b>, supporting banking systems.<br>
   Also behind <a href="https://IOSSreviews.com">IOSSreviews</a> — reviews of mice, mousepads and gaming gear.
@@ -111,6 +114,14 @@
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
   <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots">
 </p>
+
+### 🚀 Projects
+
+| Project | What it is |
+|---|---|
+| [**mainframe-toolkit**](https://github.com/Lvc-IOS/mainframe-toolkit) | COBOL, JCL and REXX snippets for z/OS — IBAN validator, date utils, DFSORT, IDCAMS |
+| [**homelab**](https://github.com/Lvc-IOS/homelab) | Docker Compose stacks for my Proxmox homelab — proxy, monitoring, local LLMs |
+| [**dotfiles**](https://github.com/Lvc-IOS/dotfiles) | Arch + Hyprland + Neovim setup, one-script install |
 
 ### 📊 Stats
 
