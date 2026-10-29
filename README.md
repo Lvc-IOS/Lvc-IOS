@@ -25,6 +25,22 @@
   <img src="https://img.shields.io/badge/TSO%2FISPF-161616?style=for-the-badge" alt="TSO/ISPF">
 </p>
 
+### 🧠 AI & LLMs
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/ChatGPT_%2F_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT / GPT">
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral">
+  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-2E3440?style=for-the-badge" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/RAG_%26_Agents-1F2937?style=for-the-badge" alt="RAG & Agents">
+</p>
+
 ### 💻 Languages
 
 <p>
