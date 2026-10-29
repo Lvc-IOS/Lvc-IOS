@@ -107,7 +107,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvc-IOS&hide_border=true&theme=transparent" alt="Streak">
 </p>
 
-### 🔗 Connect
+### 🔗 Connect with me
 
 <p>
   <a href="https://IOSSreviews.com"><img src="https://img.shields.io/badge/IOSSreviews.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="IOSSreviews.com"></a>
