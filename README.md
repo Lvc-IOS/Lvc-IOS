@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm IOSS 👋</h1>
 <p align="center">
-  IT professional from Italy · Sysadmin · Developer<br>
+  IT professional from Italy · Sysadmin · Developer · Web Developer<br>
   Currently working as a <b>mainframe developer &amp; technician</b>, supporting banking systems.<br>
   Also behind <a href="https://IOSSreviews.com">IOSSreviews</a> — reviews of mice, mousepads and gaming gear.
 </p>
@@ -10,6 +10,7 @@
 ### 👨‍💻 About me
 
 - 🏦 Mainframe development and technical support for **banks**
+- 🌐 Web developer: I design and build websites and web apps for clients, from landing pages to full-stack projects
 - 🖥️ Sysadmin background: Linux & Windows servers, networking, homelab
 - 🤖 In my spare time I build bots, automations and small tools that make life easier
 
