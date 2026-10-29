@@ -80,12 +80,12 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**monitor-price-bot**](https://github.com/IOSSvl/monitor-price-bot) | Telegram bot that tracks OLED monitor prices across Amazon & Trovaprezzi and alerts on every drop, with price-history charts | Python · GitHub Actions · Supabase |
+| [**monitor-price-bot**](https://github.com/Lvc-IOS/monitor-price-bot) | Telegram bot that tracks OLED monitor prices across Amazon & Trovaprezzi and alerts on every drop, with price-history charts | Python · GitHub Actions · Supabase |
 
 ### 📊 Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IOSSvl&hide_border=true&theme=transparent" alt="Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvc-IOS&hide_border=true&theme=transparent" alt="Streak">
 </p>
 
 ### 🔗 Connect
